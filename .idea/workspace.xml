@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2df2f58f-b175-4fe4-bcbe-68521e00d0a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_down-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_down-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_left-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_left-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_right-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_right-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_stand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_up-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_up-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/player_up-3.png" afterDir="false" />
+    <list default="true" id="2df2f58f-b175-4fe4-bcbe-68521e00d0a0" name="Changes" comment="insert player with movement">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +65,24 @@
       <workItem from="1677310450413" duration="9238000" />
       <workItem from="1677392829196" duration="3600000" />
       <workItem from="1677398223631" duration="87000" />
-      <workItem from="1677423859263" duration="1659000" />
+      <workItem from="1677423859263" duration="3065000" />
+      <workItem from="1677565574107" duration="166000" />
     </task>
+    <task id="LOCAL-00001" summary="insert player with movement">
+      <created>1677425783456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677425783456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="insert player with movement" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert player with movement" />
   </component>
 </project>
